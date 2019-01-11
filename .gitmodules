@@ -1,0 +1,33 @@
+[submodule "kingofrubbish1"]
+	path = kingofrubbish1
+	url = https://github.com/kingofrubbish2/kingofrubbish1
+[submodule "StatComp18001"]
+	path = StatComp18001
+	url = https://github.com/mrjinyx/StatComp18001
+[submodule "StatComp18018"]
+	path = StatComp18018
+	url = https://github.com/pikachuuu108/StatComp18018
+[submodule "StatComp18092"]
+	path = StatComp18092
+	url = https://github.com/bgdy/StatComp18092
+[submodule "StatComp18038"]
+	path = StatComp18038
+	url = https://github.com/zhaoynan/StatComp18038
+[submodule "StatComp18077"]
+	path = StatComp18077
+	url = https://github.com/spectre-keli/StatComp18077
+[submodule "StatComp18081"]
+	path = StatComp18081
+	url = https://github.com/woshiershixiong/StatComp18081
+[submodule "StatComp18032"]
+	path = StatComp18032
+	url = https://github.com/zsaijun/StatComp18032
+[submodule "StatComp18026"]
+	path = StatComp18026
+	url = https://github.com/YulieKing/StatComp18026
+[submodule "StatComp18025"]
+	path = StatComp18025
+	url = https://github.com/SA18017009/StatComp18025
+[submodule "StatComp18057"]
+	path = StatComp18057
+	url = https://github.com/ZhangYuny/StatComp18057
